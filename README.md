@@ -1,1 +1,5 @@
-# infera-git-test
+Dosyanın içine rastgele bir harf/satır ekle.
+
+Sağ üstteki yeşil "Commit changes..." butonuna bas.
+
+Açılan kutudaki Commit message alanına birebir şunu yaz:# infera-git-test
